@@ -1,0 +1,7 @@
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\bin\Debug\Login-Hash.exe.config
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\bin\Debug\Login-Hash.exe
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\bin\Debug\Login-Hash.pdb
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\obj\Debug\Login-Hash.csprojAssemblyReference.cache
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\obj\Debug\Login-Hash.csproj.CoreCompileInputs.cache
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\obj\Debug\Login-Hash.exe
+C:\Users\phil2643\source\repos\Login-Hash\Login-Hash\obj\Debug\Login-Hash.pdb
